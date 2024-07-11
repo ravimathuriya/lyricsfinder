@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lyricsfinder/static/css/main.f63ced9b.css",
+    "main.js": "/lyricsfinder/static/js/main.9486f63a.js",
+    "static/js/453.7b0801eb.chunk.js": "/lyricsfinder/static/js/453.7b0801eb.chunk.js",
+    "index.html": "/lyricsfinder/index.html",
+    "main.f63ced9b.css.map": "/lyricsfinder/static/css/main.f63ced9b.css.map",
+    "main.9486f63a.js.map": "/lyricsfinder/static/js/main.9486f63a.js.map",
+    "453.7b0801eb.chunk.js.map": "/lyricsfinder/static/js/453.7b0801eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f63ced9b.css",
+    "static/js/main.9486f63a.js"
+  ]
+}
